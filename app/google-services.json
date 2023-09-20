@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "115811166025",
+    "firebase_url": "https://august-allan-project-default-rtdb.firebaseio.com",
+    "project_id": "august-allan-project",
+    "storage_bucket": "august-allan-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115811166025:android:ea5de8d6af00e440da1c98",
+        "android_client_info": {
+          "package_name": "com.example.navigatonapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115811166025-v6s51g3c7851gbo6hidvsq3aa781r0t4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrqF2Ilox_JUxQr53yV8Db2eknSag95CU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115811166025-v6s51g3c7851gbo6hidvsq3aa781r0t4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
